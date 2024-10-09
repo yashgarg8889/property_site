@@ -38,18 +38,7 @@ public class App {
 
 	public static void main(String[] args) throws InterruptedException, SQLException, IOException {
 		
-        //scraping();
-//        String name = "Arjun";
-//        int lng = name.length();
-//        
-//        for(int i=lng-1; i>=0; i--) {
-//        	System.out.print(name.charAt(i));
-//        }
-		//int a= 4;
-	//	double b = 3.14,c;
-	//	c = a*b*a;
-		//System.out.println(c);
-
+    
 	}
 	
 	public static void scraping() throws InterruptedException, SQLException, IOException {
